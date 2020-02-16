@@ -3,6 +3,7 @@ name = "engulfs"
 version = "0.0.1"
 authors = ["Callum Tolley <cgtrolley@gmail.com>"]
 edition = "2018"
+description = "Git LFS server library"
 license = "MIT"
 documentation = "https://docs.rs/engulfs"
 homepage = "https://github.com/trolleyman/engulfs"
